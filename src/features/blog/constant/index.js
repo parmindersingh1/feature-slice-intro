@@ -1,0 +1,1 @@
+// constants specific to blog
